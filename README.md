@@ -1,6 +1,6 @@
 # CDRE
 <p align="center">
-  <img src="images/CDRE.png" alt="CDRE" width="800"/>
+  <img src="image/CDRE.png" alt="CDRE" width="800"/>
 </p>
 
 ## Installation and Dependencies
